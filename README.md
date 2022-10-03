@@ -30,3 +30,4 @@
 
 ###
 
+![snake gif](https://github.com/kauanfiolo-04/kauanfiolo-04/blob/output/github-contribution-grid-snake.svg)
