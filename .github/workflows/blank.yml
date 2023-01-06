@@ -1,7 +1,7 @@
 - name: generate-snake-game-from-github-contribution-grid
   # You may pin to the exact commit or the version.
   # uses: Platane/snk@b7a9c1e3536c332e5bf525011a50501ede0e6a78
-  uses: Platane/snk@v2.2.0
+  uses: Platane/snk/svg-only@v2
   with:
     # github user name
     github_user_name: ${{ kauanfiolo-04 }}
