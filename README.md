@@ -32,4 +32,5 @@
   
 ##
 
-![snake gif](https://github.com/kauanfiolo-04/kauanfiolo-04/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
