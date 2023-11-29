@@ -1,4 +1,6 @@
 ### Hi there!👋 I'm Kauan Fiolo da Silva
+I'm a devoloper who has a passion for JavaScript and his Frameworks.
+Nowadays i'm devoloping a project based in TypeScript, Deno, Fresh, Preact and TailwindCSS, and i'm very excited because i'm learning SSR and TS!
 
 <div align="center">
   <h2>Stats</h2>
