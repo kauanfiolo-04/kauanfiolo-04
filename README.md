@@ -4,7 +4,7 @@ Nowadays i'm devoloping a project based in TypeScript, Deno, Fresh, Preact and T
 
 <div align="center">
   <h2>Stats</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanfiolo-04&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanfiolo-04&show_icons=true&theme=dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanfiolo-04&layout=compact&langs_count=7&theme=dark"/>
   <img height=180em src="https://github-readme-stats.vercel.app/api/wakatime?username=kauanfiolo04&v=2"/>
 </div>
