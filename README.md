@@ -1,30 +1,52 @@
-### Hi there!👋 I'm Kauan Fiolo da Silva
-I'm a devoloper who has a passion for JavaScript and its Frameworks.
-Nowadays i'm working on my PokeAPP where i learned React Native!
+<h1 align="center">Hey 👋What's Up?</h1>
+
+###
 
 <div align="center">
-  <h2>Stats</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanfiolo-04&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanfiolo-04&layout=compact&langs_count=7&theme=dark"/>
-  <img height=180em src="https://github-readme-stats.vercel.app/api/wakatime?username=kauanfiolo04&v=2"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" alt="jest logo"  />
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  <h2>Skills</h2>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Deno" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original-wordmark.svg" />
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+###
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kauanfiolo-04&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-##
+###
+
+<div align="center">
+  <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22pw35yluxrantsbzjnzqhhyi&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22pw35yluxrantsbzjnzqhhyi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  </a>
+</p>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/kauanfiolo-04/kauanfiolo-04/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
   <h2>How to reach me:</h2
@@ -35,5 +57,3 @@ Nowadays i'm working on my PokeAPP where i learned React Native!
   <a href="https://web.whatsapp.com/send?phone=5519995934779" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
   
-##
-
