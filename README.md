@@ -1,4 +1,9 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Kauan Fiolo</h1>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
+
+- 🔭 I’m currently working on [LifeHub](https://github.com/kauanfiolo-04/LifeHub)
+
+- 📫 How to reach me **kauanfiolo@hotmail.com**
 
 ###
 
@@ -25,11 +30,15 @@
 ###
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
+<div align="center">
+   ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kauanfiolo-04&langs_count=4)
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kauanfiolo-04&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kauanfiolo-04)](https://github.com/stats-organization/github-stats-extended)
+  <!-- <img src="https://streak-stats.demolab.com?user=kauanfiolo-04&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
 </div>
 
 ###
