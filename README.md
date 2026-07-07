@@ -3,7 +3,16 @@
 
 - 🔭 I’m currently working on [LifeHub](https://github.com/kauanfiolo-04/LifeHub)
 
-- 📫 How to reach me **kauanfiolo@hotmail.com**
+###
+
+<div align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=kauanfiolo-04">
+    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=kauanfiolo-04&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true" />
+  </a>
+  <a href="https://wakatime.com/@kauanfiolo04">
+    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=kauanfiolo04&langs_count=6" />
+  </a>
+</div>
 
 ###
 
@@ -29,20 +38,6 @@
 
 ###
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
-<div align="center">
-   ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kauanfiolo-04&langs_count=4)
-</div>
-
-###
-
-<div align="center">
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kauanfiolo-04)](https://github.com/stats-organization/github-stats-extended)
-  <!-- <img src="https://streak-stats.demolab.com?user=kauanfiolo-04&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
-</div>
-
-###
-
 <div align="center">
   <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22pw35yluxrantsbzjnzqhhyi&redirect=true">
@@ -53,7 +48,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kauanfiolo-04/kauanfiolo-04/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ###
 
